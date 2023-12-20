@@ -1,5 +1,5 @@
 #
-# **Optifly**
+# **OptiFly**
 
 **A data pipeline with PySpark, Airflow, GCP, BigQuery, Tableau, Looker and Docker!**
 
