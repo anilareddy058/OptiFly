@@ -34,9 +34,8 @@ The OptiFly project aims to leverage data center-scale computing technologies to
 
 ### **Architecture:**
 
-![](RackMultipart20231220-1-j1oz30_html_7e68c0081a8e746.png)
+![](Architecture.png)
 
-![](RackMultipart20231220-1-j1oz30_html_477cb1b5c0ef5d91.png)
 
 **Final Results:**
 
