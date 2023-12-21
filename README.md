@@ -62,9 +62,9 @@ The OptiFly project aims to leverage data center-scale computing technologies to
 
 1. **Installing Docker**:
 
-    Docker 101 Tutorial:[Get Started with Docker](https://www.docker.com/101-tutorial)
+    Docker 101 Tutorial: [Get Started with Docker](https://www.docker.com/101-tutorial)
 
-    YouTube Tutorial:[Installing Docker](https://www.youtube.com/watch?v=8Ev1aXl7TGY)
+    YouTube Tutorial: [Installing Docker](https://www.youtube.com/watch?v=8Ev1aXl7TGY)
 
 1. **Setting Up a Google Cloud Storage (GCS) Account:** This involves creating a service account, setting up a storage bucket, and configuring Identity and Access Management (IAM) roles and permissions.
 2. **Creating a Database in BigQuery**
@@ -72,7 +72,7 @@ The OptiFly project aims to leverage data center-scale computing technologies to
 
 ### **Get Going!**
 
-   A video walkthrough of how I run my project - Demo Video
+   A video walkthrough of how I run my project - [Demo Video](https://www.youtube.com/watch?v=6YiKmbZjmJo)
 
 ### **Debug**
 
